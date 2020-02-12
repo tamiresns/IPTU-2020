@@ -1,0 +1,95 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Main Menu ================= */
+
+/** Main Menu >> manupersonal **/
+.main-navigation {
+	
+}
+
+
+/*= Footer ==================== */
+
+/** Footer >> rodape **/
+.uagb-section__background-color .uagb-section__overlay {
+	height: 200px !important;
+}
+
+
+/*( Large Desktop )*/
+@media (min-width: 1200px) {
+
+	/*= Main Menu ================= */
+
+	/** Main Menu >> manupersonal **/
+	.main-navigation {
+	margin-right: 420px !important;
+}
+
+	/** Main Menu >> maisfotoheader **/
+	.main-header-bar .ast-container {
+	
+}
+
+
+	/*= Footer ==================== */
+
+	/** Footer >> rodape completo **/
+	.uagb-section__background-color {
+	
+}
+
+
+}
+
+
+/*( Desktop & Tablet )*/
+@media (min-width: 768px) and (max-width: 979px) {
+
+	/*= Main Menu ================= */
+
+	/** Main Menu >> manupersonal **/
+	.main-navigation {
+	margin-right: 120px !important;
+}
+
+
+	/*= Footer ==================== */
+
+	/** Footer >> rodape **/
+	.uagb-section__background-color .uagb-section__overlay {
+	
+}
+
+
+}
+
+
+/*( Tablet & Phone )*/
+@media (max-width: 767px) {
+
+	/*= Footer ==================== */
+
+	/** Footer >> rodape **/
+	.uagb-section__background-color .uagb-section__overlay {
+	height: 100% !important;
+}
+
+
+}
+
+
+/*( Phone )*/
+@media (max-width: 480px) {
+
+	/*= Footer ==================== */
+
+	/** Footer >> rodape **/
+	.uagb-section__background-color .uagb-section__overlay {
+	height: 100% !important;
+}
+
+
+}
+
